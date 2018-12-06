@@ -17,18 +17,8 @@ cd expo-react-native-admin
 yarn install
 ```
 
-Or
-
-```bash
-npm install
-```
 
 3. Start local server.
-
-```bash
-npm run start
-```
-Or
 
 ```bash
 yarn start
